@@ -6,3 +6,9 @@
 ```
 var newContent = "New Content";
 ```
+
+- [ ] Turn on Github pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+  
